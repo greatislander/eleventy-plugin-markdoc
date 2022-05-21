@@ -1,0 +1,21 @@
+{
+  "name": "eleventy-plugin-markdoc",
+  "version": "0.0.1",
+  "description": "Adds Markdoc as a custom template format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eleventy",
+    "markdoc"
+  ],
+  "author": "Ned Zimmerman <ned@bight.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "@markdoc/markdoc": "^0.1.2"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
