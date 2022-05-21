@@ -1,4 +1,4 @@
-const Markdoc = requre("@markdoc/markdoc");
+const Markdoc = require("@markdoc/markdoc");
 
 module.exports = {
     initArguments: {},
