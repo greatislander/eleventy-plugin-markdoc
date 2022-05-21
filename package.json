@@ -8,6 +8,7 @@
   },
   "keywords": [
     "eleventy",
+    "eleventy-plugin",
     "markdoc"
   ],
   "author": "Ned Zimmerman <ned@bight.dev>",
